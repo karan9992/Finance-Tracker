@@ -1,0 +1,74 @@
+{
+  "history": [
+    {
+      "id": "82c6",
+      "name": "Dinner",
+      "amount": "600",
+      "method": "card",
+      "category": "food",
+      "date": "2025-04-10",
+      "transaction": "debit"
+    },
+    {
+      "id": "680e",
+      "name": "dividend",
+      "amount": "3582",
+      "method": "online",
+      "date": "2025-04-15",
+      "category": "other",
+      "transaction": "credit"
+    },
+    {
+      "id": "74c6",
+      "name": "Shirt",
+      "amount": "2000",
+      "method": "online",
+      "category": "shopping",
+      "date": "2025-04-10",
+      "transaction": "debit"
+    },
+    {
+      "id": "72f2",
+      "name": "xerox",
+      "amount": "30",
+      "method": "cash",
+      "category": "other",
+      "date": "2025-04-10",
+      "transaction": "debit"
+    },
+    {
+      "id": "2ffe",
+      "name": "salary",
+      "amount": "15000",
+      "method": "card",
+      "date": "2025-04-01",
+      "transaction": "credit"
+    },
+    {
+      "id": "6ee5",
+      "name": "train",
+      "amount": "1472",
+      "method": "card",
+      "category": "travel",
+      "date": "2025-04-04",
+      "transaction": "debit"
+    },
+    {
+      "id": "9cae",
+      "name": "gift",
+      "amount": "300",
+      "method": "",
+      "date": "2025-04-08",
+      "transaction": "credit"
+    },
+    {
+      "id": "973d",
+      "name": "pasta",
+      "amount": "800",
+      "method": "online",
+      "category": "food",
+      "date": "2025-03-06",
+      "transaction": "debit"
+    }
+  ]
+}
